@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Android Refresher",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
