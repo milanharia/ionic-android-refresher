@@ -1,0 +1,7 @@
+{
+  "name": "Android Refresher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
